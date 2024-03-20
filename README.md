@@ -3,7 +3,7 @@
 I am a full stack developer passionate about crafting innovative and scalable solutions that bring ideas to life.<br>
 ## 📫 About Me: 
 - 🌱  I’m currently working with MERN stack/full stack development
-- 👨‍💻 I'm Innovative, task-driven professional with 5.5+ year of well-rounded experience in development of backend and frontend for dynamic database driven websites across diverse Industries.
+- 👨‍💻 I'm Innovative, task-driven professional with 6+ year of well-rounded experience in development of backend and frontend for dynamic database driven websites across diverse Industries.
 
 ## 🤝Connect With Me:
  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/shailesh-jadav-667983145/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/shaileshjadav) [💼 Portfolio](https://shaileshjadav.netlify.app/) 
