@@ -1,4 +1,4 @@
-# Hi there I'm [Shailesh!](https://shaileshjadav.netlify.app/)  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+# Hi there I'm [Shailesh!](https://www.shaileshjadav.dev/)  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 I am a full stack developer passionate about crafting innovative and scalable solutions that bring ideas to life.<br>
 ## 📫 About Me: 
